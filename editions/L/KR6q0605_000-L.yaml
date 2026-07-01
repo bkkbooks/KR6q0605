@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0605/l/v1/juan/0
+seq: 0
+front:
+  text: 大覺普濟能仁玉琳琇國師語錄目錄幾一卷第一上堂一卷第二上堂二示眾卷第三小叅一卷第四小叅二卷第五法語客問機緣一卷第六機緣二頌古書問像讚卷第七詩偈佛事雜著塔銘
+  hash: sha256:9a66f488b91fbf10c068514c5c0214f472396557ef5ad6cbba79335bd40f536f
+  markers:
+  - {type: 其他, offset: 0, content: 目錄, id: KR6q0605_L_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大覺普濟能仁琇國師語錄
+  edition:
+    short: l
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/L/L154/L154n1641.xml
+    old_id: L154n1641
+hash: sha256:6b56d01de74d061a0cd3779858c18fb2cb40af69dc9c3b9cddc9fe0773d2da40
