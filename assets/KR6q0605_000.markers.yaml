@@ -4,8 +4,6 @@ markers:
   front:
   - {type: page-break, offset: 0, content: '', id: KR6q0605_L_000-0621a, ed: L, 'n': 0621a, source_xml_id: L154.1641.0621a}
   - {type: line-break, offset: 0, content: '', id: KR6q0605_L_000-0621a01, ed: L, 'n': 0621a01}
-  - {type: substitution, offset: 12, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
-  - {type: substitution, offset: 14, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: indent, offset: 15, content: 　, id: KR6q0605_L_000-bkkind1}
   - {type: line-break, offset: 17, content: '', id: KR6q0605_L_000-0621a02, ed: L, 'n': 0621a02}
   - {type: xml-element, offset: 17, content: '', id: KR6q0605_L_000-bkkxmlele1, name: list, role: open, attrs: {rend: no-marker}}
@@ -28,7 +26,6 @@ markers:
   - {type: xml-element, offset: 29, content: '', id: itemL154p0621a0501_end, name: item, role: close, attrs: {'xml:id': itemL154p0621a0501}}
   - {type: line-break, offset: 29, content: '', id: KR6q0605_L_000-0621a06, ed: L, 'n': 0621a06}
   - {type: xml-element, offset: 29, content: '', id: itemL154p0621a0601, name: item, role: open, attrs: {'xml:id': itemL154p0621a0601}}
-  - {type: substitution, offset: 30, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: xml-element, offset: 31, content: '', id: itemL154p0621a0601_end, name: item, role: close, attrs: {'xml:id': itemL154p0621a0601}}
   - {type: xml-element, offset: 31, content: '', id: KR6q0605_L_000-bkkxmlele9, name: list, role: close, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 31, content: '', id: itemL154p0621a0401_end, name: item, role: close, attrs: {'xml:id': itemL154p0621a0401}}
@@ -37,7 +34,6 @@ markers:
   - {type: line-break, offset: 34, content: '', id: KR6q0605_L_000-0621a08, ed: L, 'n': 0621a08}
   - {type: xml-element, offset: 34, content: '', id: KR6q0605_L_000-bkkxmlele10, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 34, content: '', id: itemL154p0621a0801, name: item, role: open, attrs: {'xml:id': itemL154p0621a0801}}
-  - {type: substitution, offset: 35, original: 叅, replacement: 參, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3283}}
   - {type: xml-element, offset: 36, content: '', id: KR6q0605_L_000-bkkxmlele11, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 37, content: '', id: KR6q0605_L_000-bkkxmlele12, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 37, content: '', id: itemL154p0621a0801_end, name: item, role: close, attrs: {'xml:id': itemL154p0621a0801}}
@@ -48,7 +44,6 @@ markers:
   - {type: line-break, offset: 40, content: '', id: KR6q0605_L_000-0621a10, ed: L, 'n': 0621a10}
   - {type: xml-element, offset: 40, content: '', id: KR6q0605_L_000-bkkxmlele14, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 40, content: '', id: itemL154p0621a1001, name: item, role: open, attrs: {'xml:id': itemL154p0621a1001}}
-  - {type: substitution, offset: 41, original: 叅, replacement: 參, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3283}}
   - {type: xml-element, offset: 42, content: '', id: KR6q0605_L_000-bkkxmlele15, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 43, content: '', id: KR6q0605_L_000-bkkxmlele16, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 43, content: '', id: itemL154p0621a1001_end, name: item, role: close, attrs: {'xml:id': itemL154p0621a1001}}
@@ -118,4 +113,4 @@ markers:
   - {type: line-break, offset: 76, content: '', id: KR6q0605_L_000-0622a01, ed: L, 'n': 0622a01}
   body: []
   back: []
-hash: sha256:5d1d4c41be02fe26e1f0a6fce15189a7abe56063e62ab24199f5f3a3332568ab
+hash: sha256:3210255ef05f9b4add0f63d88408a7f5ed640d1988107bc702dddbe94e6839a9
